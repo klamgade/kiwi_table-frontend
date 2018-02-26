@@ -8,7 +8,10 @@ export default class Home extends Component {
 
     render() {
         return (
-            <div>You are in HOME!</div>
+            <div>
+                <p>You are in HOME!</p>
+                <p>Change this p to the search component</p>
+            </div>
         );
     }
 
