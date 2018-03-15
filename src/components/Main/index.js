@@ -3,7 +3,7 @@
  */
 import React, { Component } from 'react';
 import { Route, Switch } from 'react-router-dom';
-import Authentication from './../../scenes/Authentication'
+import Authentication from '../FacebookLogin'
 import Deals from './../../scenes/Deals';
 import Home from './../../scenes/Home';
 import Listing from './../../scenes/Listing'
